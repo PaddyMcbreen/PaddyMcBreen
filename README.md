@@ -1,7 +1,11 @@
 ⚡ 19 Years Old
+
 ✉️ patrickmcbreen2004@hotmail.com
+
 💬 Trainee Cloud Engineer | NorthCoders
+
 📍 Darwen, Lancashire, United Kindgdom
+
  
 
 <!--
