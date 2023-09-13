@@ -1,4 +1,8 @@
-### Hi there 👋
+⚡ 19 Years Old
+✉️ patrickmcbreen2004@hotmail.com
+💬 Trainee Cloud Engineer | NorthCoders
+📍 Darwen, Lancashire, United Kindgdom
+ 
 
 <!--
 **PaddyMcbreen/PaddyMcBreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
