@@ -2,7 +2,6 @@
 
 💬 Trainee Cloud Engineer | NorthCoders
 
-📍 Darwen, Lancashire, United Kindgdom
 
  
 
