@@ -3,6 +3,12 @@
 💬 Trainee Cloud Engineer | NorthCoders
 
 
+✨ More About Me:
+
+Experienced cloud engineer with a comprehensive skill set honed through the Northcoders Cloud Engineer bootcamp at Manchester Technology Centre.
+
+Adept at designing and implementing scalable cloud solutions, proficient in cloud platforms, and equipped with hands-on experience in deploying and managing cloud-based infrastructure. 
+
  
 
 <!--
