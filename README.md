@@ -2,6 +2,7 @@
 
 💬 Trainee Cloud Engineer | NorthCoders
 
+-----------------------------------------
 
 ✨ More About Me:
 
