@@ -1,6 +1,6 @@
 ⚡19 Years Old
 
-💬 Trainee Cloud Engineer | NorthCoders
+💬 Junior Cloud Engineer | NorthCoders
 
 -----------------------------------------
 
