@@ -1,6 +1,6 @@
 ⚡19 Years Old
 
-💬  DevOps Engineer Apprentice | NorthCoders
+💬  DevOps Engineer Apprentice | Cloud Bridge
 
 -----------------------------------------
 
